@@ -1,7 +1,0 @@
---Setup project---
-npm yo & generator-code
-yo code
-------------------
-
-vsce package
-code --install-extension .vsix
