@@ -1,0 +1,21 @@
+{
+    "name": "gsrtheme",
+    "displayName": "gsrtheme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "gsr",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gsr-color-theme.json"
+            }
+        ]
+    }
+}
